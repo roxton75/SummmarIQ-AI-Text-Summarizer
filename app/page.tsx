@@ -95,7 +95,7 @@ export default function HomePage() {
         </div>
 
         <div className="text-center text-sm text-[var(--sq-accent)] font-sans">
-          • English-only summaries •
+          •Uses Google Gemini Vision Pro (Free tier)•
         </div>
       </section>
     </main>
