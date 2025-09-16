@@ -67,4 +67,4 @@ Visit [SummarIQ](https://summariq.netlify.app/) to use the app.
 Created by [roxton75](https://github.com/roxton75) - feel free to reach out for questions or collaboration.
 
 ## License
-MIT
+[MIT](LICENSE)
