@@ -18,8 +18,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+ title: "SummarIQ",
+  description: "AI-powered summary tool",
   generator: "v0.app",
 }
 
