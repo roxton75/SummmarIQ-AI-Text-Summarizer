@@ -44,22 +44,6 @@ npm run build
 npm start
 ```
 
-## Deployment
-
-### Deploy on Vercel
-- Push your code to GitHub
-- Import your repo on [vercel.com](https://vercel.com)
-- Set environment variables in the Vercel dashboard
-- Click "Deploy"
-
-### Deploy on Netlify
-- Push your code to GitHub
-- Import your repo on [netlify.com](https://netlify.com)
-- Set build command: `npm run build`
-- Set publish directory: `.next`
-- Add environment variables in Site Settings
-- Click "Deploy site"
-
 ## Live Preview
 Visit [SummarIQ](https://summariq.netlify.app/) to use the app.
 
